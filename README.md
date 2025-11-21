@@ -56,7 +56,7 @@ Enable interactive filtering through dashboards
 
 Dashboard Highlights
 
-📄 Dashboard Report: Dashboard_Report.pdf
+📄 Dashboard Report: ./Dashboard_Report.pdf
 
 ---
 
